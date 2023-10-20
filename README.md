@@ -1,1 +1,5 @@
-# 1c-repo-for-selection
+Ишханян Даниэль Артурович 
+
+Задача №4
+
+Запуск: python3 main.py
